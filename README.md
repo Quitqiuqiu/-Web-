@@ -12,7 +12,6 @@
 - **后端技术**:
   - Java Servlet
   - JavaBeans
-  - JDBC
   - DAO (Data Access Object) 模式
   
 - **数据库**:
