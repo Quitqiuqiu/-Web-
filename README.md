@@ -4,22 +4,13 @@
 教师管理系统是一个基于 Java Web 技术开发的应用，旨在帮助学校管理员和注册用户管理教师信息。系统实现了用户登录、注册、个人信息管理、教师信息查询与管理等功能。
 
 ## 技术栈
-- **前端技术**: 
-  - CSS3 (Bootstrap 5)
-  - JavaScript
-  - JSP + JSTL
+- **前端**: CSS3 (Bootstrap 5), JavaScript, JSP + JSTL
 
-- **后端技术**:
-  - Java Servlet
-  - JavaBeans
-  - DAO (Data Access Object) 模式
+- **后端**: Java Servlet, JavaBeans, DAO (Data Access Object) 模式
   
-- **数据库**:
-  - MySQL
+- **数据库**: MySQL
   
-- **开发工具**:
-  - Eclipse
-  - Tomcat
+- **开发工具**: Eclipse, Tomcat, DBeaver
 
 ## 功能特点
 - 用户注册与登录
